@@ -30,3 +30,9 @@ proguard/
 
 # Android Studio captures folder
 captures/
+
+\.idea/
+gradle/
+openCVLibrary310/
+openCVTutorial2MixedProcessing/\.externalNativeBuild
+openCVTutorial2MixedProcessing/src/main/jniLibs/
