@@ -64,7 +64,7 @@ public class Tutorial2Activity extends Activity implements CvCameraViewListener2
         mOpenCvCameraView.setVisibility(CameraBridgeViewBase.VISIBLE);
         mOpenCvCameraView.setCvCameraViewListener(this);
     }
-    
+
 
     @Override
     public void onPause()
